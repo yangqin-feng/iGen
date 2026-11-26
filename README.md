@@ -15,7 +15,7 @@ This repository contains the RetiGlobe/DINOv2 model code and Jupyter notebooks f
 
 ```bash
 git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd RetiGlobe_SEED_PRS_XY
+cd iGen
 ```
 
 Replace `<YOUR_GITHUB_REPOSITORY_URL>` with the URL of the GitHub repository after you create it.
