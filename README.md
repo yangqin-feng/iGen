@@ -1,4 +1,4 @@
-# RetiGlobe SEED PRS XY
+# iGen
 
 This repository contains the RetiGlobe/DINOv2 model code and Jupyter notebooks for retinal image feature extraction, training, and evaluation. The main workflows are demonstrated in the notebooks at the repository root.
 
