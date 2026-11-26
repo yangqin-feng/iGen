@@ -1,0 +1,21 @@
+# Install PyTorch and torchvision separately for your CUDA version.
+# The original environment used PyTorch 2.0.0, torchvision 0.15.0, CUDA 11.7.
+torch==2.0.0
+torchvision==0.15.0
+
+# DINOv2 and project dependencies
+omegaconf
+torchmetrics==0.10.3
+fvcore
+iopath
+xformers==0.0.18
+submitit
+
+# RetiGlobe training and inference dependencies
+numpy
+pandas
+Pillow
+tqdm
+transformers
+kornia
+imgaug

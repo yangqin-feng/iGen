@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+checkpoints/
+model_weights/
+
+# Data
+data/
+datasets/
+*.csv
+*.xlsx
+*.h5
+*.npy
+*.npz
+
+# Experimental results
+results/
+outputs/
+logs/
+wandb/
+runs/
+
+# System files
+.DS_Store
+
+# Sensitive information
+.env
+.env.*
+*.pem
+*.key
+credentials.json
